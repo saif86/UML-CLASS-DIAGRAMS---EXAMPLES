@@ -9,7 +9,7 @@ Converting a problem statement into class diagram.
  
   * [Course-Information-System](https://github.com/saif86/UML-class-diagram---Course-Information-System)
   
-  * [Pakfood-International](https://github.com/saif86/UML-class-diagram---Pakfood-International)
+  * [Pakfood-Internationals](https://github.com/saif86/UML-class-diagram---Pakfood-International)
   
   * [Banking-System](https://github.com/saif86/UML-class-diagram---Banking-System)
   
